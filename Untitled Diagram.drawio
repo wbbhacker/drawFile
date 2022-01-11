@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T07:52:39.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.2.4" etag="UdPZekW1_jFT7bgxubCW" type="github"><diagram id="1yzQ9n3bX9XZIDNbpLdn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-11T08:15:40.787Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="thJIuf2OPv7x_qmiE8Ec" version="16.2.4" type="github">
+  <diagram id="1yzQ9n3bX9XZIDNbpLdn" name="Page-1">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#330000;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-7" target="QTsBgi_JLnD7-ttwWDAb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-3" value="filter change&lt;br&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="105" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QTsBgi_JLnD7-ttwWDAb-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="120" as="sourcePoint" />
+            <mxPoint x="170" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-13" value="&lt;font color=&quot;#330000&quot;&gt;ChartRender.jsx&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: #0000ff&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #001080&quot;&gt;hooks&lt;/span&gt; ={&lt;span style=&quot;text-align: center ; color: rgb(121 , 94 , 38)&quot;&gt;onAddFilter&lt;/span&gt;&lt;span style=&quot;text-align: center ; color: rgb(0 , 16 , 128)&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;text-align: center ; color: rgb(0 , 0 , 255)&quot;&gt;this&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;text-align: center ; color: rgb(121 , 94 , 38)&quot;&gt;handleAddFilter}&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #795e26&quot;&gt;handleAddFilter(){&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 255)&quot;&gt;this&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 112 , 193)&quot;&gt;props&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(121 , 94 , 38)&quot;&gt;addFilter&lt;/span&gt;&lt;span&gt;(&lt;/span&gt;&lt;span&gt;);&lt;/span&gt;&lt;span style=&quot;color: rgb(121 , 94 , 38)&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="500" y="70" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-16" value="Chart.jsx&lt;br&gt;this.props.addFilter()" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="870" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-17" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#330000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-13" target="QTsBgi_JLnD7-ttwWDAb-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="120" as="sourcePoint" />
+            <mxPoint x="870" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="52.5" width="320" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-9" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF6666;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QTsBgi_JLnD7-ttwWDAb-26" target="QTsBgi_JLnD7-ttwWDAb-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="50" as="sourcePoint" />
+            <mxPoint x="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-19" value="FilterBoxMini plug-in&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#330000;" vertex="1" parent="QTsBgi_JLnD7-ttwWDAb-26">
+          <mxGeometry width="320" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-4" value="FilterBox.jsx&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;this.props.onchange&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QTsBgi_JLnD7-ttwWDAb-26">
+          <mxGeometry x="20" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-7" value="transformProps.js&lt;br&gt;&lt;div style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;onChange: onAddFilter&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QTsBgi_JLnD7-ttwWDAb-26">
+          <mxGeometry x="180" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-27" value="gridComponents/Chart.jsx&lt;br&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt; &lt;span style=&quot;color: #ff0000&quot;&gt;addFilter =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #0000ff&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: #795e26&quot;&gt;changeFilter&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #0000ff&quot;&gt;this.changeFilter(){this.props.changeFilter}&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#330000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="900" y="180" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-28" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#330000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-16" target="QTsBgi_JLnD7-ttwWDAb-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="155" as="sourcePoint" />
+            <mxPoint x="1050" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-29" value="dashboard/containers/Chart.jsx&lt;br&gt;redux&lt;br&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #795e26&quot;&gt;mapDispatchToProps&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(121 , 94 , 38) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace&quot;&gt;changeFilter&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="960" y="310" width="250" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
