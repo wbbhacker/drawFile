@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T09:41:31.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="z_ZSrmgDc4plC9rgvGig" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T09:49:21.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="5DIKgk6nOkGwa7VNi4mR" version="16.2.4" type="github">
   <diagram id="1yzQ9n3bX9XZIDNbpLdn" name="Page-1">
     <mxGraphModel dx="1584" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="QTsBgi_JLnD7-ttwWDAb-19" value="FilterBoxMini 插件&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="130" y="50" width="320" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="QTsBgi_JLnD7-ttwWDAb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#330000;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-7" target="QTsBgi_JLnD7-ttwWDAb-13">
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-15" value="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#330000;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-7" target="QTsBgi_JLnD7-ttwWDAb-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QTsBgi_JLnD7-ttwWDAb-3" value="filter change&lt;br&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
@@ -31,6 +31,11 @@
             <mxPoint x="870" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-81" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#330000;" vertex="1" connectable="0" parent="QTsBgi_JLnD7-ttwWDAb-17">
+          <mxGeometry x="-0.0815" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QTsBgi_JLnD7-ttwWDAb-27" value="dashboard/components/gridComponents/Chart.jsx&lt;br&gt;&lt;div style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt; addFilter =&amp;nbsp;this.changeFilter&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;this.changeFilter(){this.props.&lt;font color=&quot;#ff6666&quot;&gt;changeFilter&lt;/font&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#330000;align=center;" vertex="1" parent="1">
           <mxGeometry x="1205" y="160" width="330" height="70" as="geometry" />
         </mxCell>
@@ -45,7 +50,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QTsBgi_JLnD7-ttwWDAb-30" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#330000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-27" target="QTsBgi_JLnD7-ttwWDAb-29">
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-82" value="4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#330000;" vertex="1" connectable="0" parent="QTsBgi_JLnD7-ttwWDAb-28">
+          <mxGeometry x="-0.5517" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-30" value="5" style="endArrow=classic;html=1;rounded=0;fontColor=#330000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-27" target="QTsBgi_JLnD7-ttwWDAb-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="915" y="310" as="sourcePoint" />
             <mxPoint x="965" y="260" as="targetPoint" />
@@ -54,10 +64,15 @@
         <mxCell id="QTsBgi_JLnD7-ttwWDAb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF6666;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-31" target="QTsBgi_JLnD7-ttwWDAb-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-83" value="7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#330000;" vertex="1" connectable="0" parent="QTsBgi_JLnD7-ttwWDAb-35">
+          <mxGeometry x="0.0756" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QTsBgi_JLnD7-ttwWDAb-31" value="dashboard/actions/dashboardFilter.js&lt;br&gt;redux action&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;changeFilter(){&amp;nbsp; dispatch( {&lt;span style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace&quot;&gt;type&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace&quot;&gt;CHANGE_FILTER&lt;/span&gt;} ) }&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="1205" y="480" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QTsBgi_JLnD7-ttwWDAb-32" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#330000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-64" target="QTsBgi_JLnD7-ttwWDAb-31">
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-32" value="6" style="endArrow=classic;html=1;rounded=0;fontColor=#330000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-64" target="QTsBgi_JLnD7-ttwWDAb-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="915" y="430" as="sourcePoint" />
             <mxPoint x="1365" y="380" as="targetPoint" />
@@ -66,7 +81,7 @@
         <mxCell id="QTsBgi_JLnD7-ttwWDAb-33" value="dashboard/reducers/dashboardFilter.js&lt;br&gt;redux reducers&lt;br&gt;&lt;div style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;执行 CHANGE_FILTER 并更新&amp;nbsp;buildActiveFilters&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="1190" y="590" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QTsBgi_JLnD7-ttwWDAb-9" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF6666;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QTsBgi_JLnD7-ttwWDAb-7">
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-9" value="&lt;font color=&quot;#330000&quot;&gt;1&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;fontColor=#FF6666;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QTsBgi_JLnD7-ttwWDAb-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="102.5" as="sourcePoint" />
             <mxPoint x="330" y="52.5" as="targetPoint" />
@@ -84,7 +99,7 @@
             <mxPoint x="710" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QTsBgi_JLnD7-ttwWDAb-44" value="触发 redux 更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF6666;" vertex="1" connectable="0" parent="QTsBgi_JLnD7-ttwWDAb-43">
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-44" value="8.触发 redux 更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#330000;" vertex="1" connectable="0" parent="QTsBgi_JLnD7-ttwWDAb-43">
           <mxGeometry x="0.2397" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -98,6 +113,11 @@
             <mxPoint x="1030" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-85" value="9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#330000;" vertex="1" connectable="0" parent="QTsBgi_JLnD7-ttwWDAb-47">
+          <mxGeometry x="-0.1763" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QTsBgi_JLnD7-ttwWDAb-50" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="630" y="550" width="360" height="100" as="geometry" />
         </mxCell>
@@ -107,7 +127,7 @@
         <mxCell id="QTsBgi_JLnD7-ttwWDAb-48" value="&lt;span style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; background-color: rgb(255 , 255 , 255) ; color: rgb(121 , 94 , 38)&quot;&gt;mapDispatchToProps&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; background-color: rgb(255 , 255 , 255) ; color: rgb(121 , 94 , 38)&quot;&gt;triggerQuery&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; background-color: rgb(255 , 255 , 255) ; color: rgb(121 , 94 , 38)&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#330000;" vertex="1" parent="QTsBgi_JLnD7-ttwWDAb-50">
           <mxGeometry x="60" y="60" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QTsBgi_JLnD7-ttwWDAb-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontColor=#330000;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-53" target="QTsBgi_JLnD7-ttwWDAb-54">
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-58" value="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontColor=#330000;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-53" target="QTsBgi_JLnD7-ttwWDAb-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QTsBgi_JLnD7-ttwWDAb-53" value="chart/chartAction.js&lt;br&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #795e26&quot;&gt;triggerQuery&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #0070c1&quot;&gt;TRIGGER_QUERY&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#330000;" vertex="1" parent="1">
@@ -126,7 +146,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QTsBgi_JLnD7-ttwWDAb-59" value="触发redux 更新" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;fontColor=#330000;entryX=0.45;entryY=0.983;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-54" target="QTsBgi_JLnD7-ttwWDAb-60">
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-86" value="10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#330000;" vertex="1" connectable="0" parent="QTsBgi_JLnD7-ttwWDAb-56">
+          <mxGeometry x="-0.1325" y="-41" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-59" value="12.触发redux 更新" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;fontColor=#330000;entryX=0.45;entryY=0.983;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-54" target="QTsBgi_JLnD7-ttwWDAb-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="410" as="sourcePoint" />
             <mxPoint x="890" y="360" as="targetPoint" />
@@ -156,6 +181,11 @@
             <mxPoint x="1260" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-88" value="13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#330000;" vertex="1" connectable="0" parent="QTsBgi_JLnD7-ttwWDAb-70">
+          <mxGeometry x="-0.1763" y="6" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QTsBgi_JLnD7-ttwWDAb-71" value="dashboard/util/charts/getFormDataWithExtraFilters.ts&lt;br&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #795e26&quot;&gt;getFormDataWithExtraFilters&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;line-height: 18px&quot;&gt;&lt;span style=&quot;color: #001080&quot;&gt;extra_filters&lt;/span&gt;&lt;span style=&quot;color: #001080&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: #795e26&quot;&gt;getEffectiveExtraFilters&lt;/span&gt;(&lt;span style=&quot;color: #001080&quot;&gt;filters&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="1630" y="420" width="370" height="70" as="geometry" />
         </mxCell>
@@ -168,7 +198,12 @@
             <mxPoint x="1590" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QTsBgi_JLnD7-ttwWDAb-77" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#330000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-71">
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-89" value="14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#330000;" vertex="1" connectable="0" parent="QTsBgi_JLnD7-ttwWDAb-75">
+          <mxGeometry x="0.0608" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTsBgi_JLnD7-ttwWDAb-77" value="15" style="endArrow=classic;html=1;rounded=0;fontColor=#330000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QTsBgi_JLnD7-ttwWDAb-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1220" y="550" as="sourcePoint" />
             <mxPoint x="1815" y="540" as="targetPoint" />
