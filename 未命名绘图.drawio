@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T06:14:47.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="90EJcabJ7PX6CRu_9Fnf" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T08:20:09.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="z5mie26l2TDJl2nLdmvs" version="20.4.0" type="github">
   <diagram id="unSvqcE0l7Pabf4y7mxZ" name="第 1 页">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,9 +54,6 @@
         </mxCell>
         <mxCell id="SIkkOvLlJoWep_bho4vR-21" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="SIkkOvLlJoWep_bho4vR-25">
           <mxGeometry x="110" y="200" width="160" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="SIkkOvLlJoWep_bho4vR-26" value="&lt;font color=&quot;#cccccc&quot;&gt;点击关注不迷路@程序员阿彬&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0818;" vertex="1" parent="1">
-          <mxGeometry x="570" y="530" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
