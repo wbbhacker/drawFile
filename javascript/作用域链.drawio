@@ -1,1 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T12:22:01.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.1" etag="BPAnHDT6VTxI67agpLvJ" type="github"><diagram id="oRTYc57QfcXdocjeUA8d">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-27T12:43:36.096Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="z2CiXqpxKvJSNAIhLll9" version="20.5.1" type="github">
+  <diagram id="oRTYc57QfcXdocjeUA8d" name="第 1 页">
+    <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="122.5" width="450" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="230" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#6600CC;dashed=1;strokeWidth=4;strokeColor=#FF0000;" edge="1" parent="1" source="aVomu0oGOpSBf0f6bF5p-11" target="aVomu0oGOpSBf0f6bF5p-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="320" />
+              <mxPoint x="540" y="441" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-11" value="&lt;br&gt;&lt;font color=&quot;#ff0818&quot;&gt;name&lt;/font&gt;=’function scope‘&lt;br&gt;&lt;font color=&quot;#6600cc&quot;&gt;OuterEnv&lt;/font&gt;=全局作用域" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="260" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-12" value="&lt;font color=&quot;#ff0818&quot;&gt;eye&lt;/font&gt;=’black‘" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-13" value="person函数执行上下文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="230" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-14" value="词法环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="787.5" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-15" value="变量环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="370" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-17" value="&lt;br&gt;&lt;font color=&quot;#ff0818&quot;&gt;name1&lt;/font&gt;=’global scope‘&lt;br&gt;&lt;font color=&quot;#6600cc&quot;&gt;OuterEnv&lt;/font&gt;=null" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="400" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-19" value="全局执行上下文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-20" value="词法环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="787.5" y="400" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-21" value="变量环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="400" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="90" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF0000;strokeWidth=4;fontColor=#6600CC;" edge="1" parent="1" source="aVomu0oGOpSBf0f6bF5p-26" target="aVomu0oGOpSBf0f6bF5p-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="180" />
+              <mxPoint x="490" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-26" value="&lt;br&gt;&lt;font color=&quot;#ff0818&quot;&gt;text&lt;/font&gt;=’阿彬‘&lt;br&gt;&lt;font color=&quot;#6600cc&quot;&gt;OuterEnv&lt;/font&gt;=全局上下文" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-28" value="say函数执行上下文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="677.5" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-29" value="词法环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="787.5" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-30" value="变量环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#000000;strokeWidth=1;fontColor=#6600CC;" edge="1" parent="1" source="aVomu0oGOpSBf0f6bF5p-32" target="aVomu0oGOpSBf0f6bF5p-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVomu0oGOpSBf0f6bF5p-32" value="&lt;font color=&quot;#ff0000&quot;&gt;执行栈&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#6600CC;" vertex="1" parent="1">
+          <mxGeometry x="970" y="272.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
