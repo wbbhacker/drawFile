@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T11:49:58.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KpmKpzGq_WbPRMWugGcY" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T11:55:15.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="AusnMMeNGiiQRf5J7Syo" version="20.5.1" type="github">
   <diagram id="bgvt5PuYggvypvkScg1X" name="第 1 页">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,13 +22,13 @@
         <mxCell id="muk2QRLbzU_1VY-n0LTS-4" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#6600cc&quot;&gt;if &lt;/font&gt;(true) {&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; l&lt;font color=&quot;#6600cc&quot;&gt;et&lt;/font&gt; &lt;font color=&quot;#3333ff&quot;&gt;name&lt;/font&gt;3 &lt;font color=&quot;#ff0000&quot;&gt;= &#39;block scope&#39;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; console.log(name1)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; }&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="315" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="muk2QRLbzU_1VY-n0LTS-8" value="全局作用域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="muk2QRLbzU_1VY-n0LTS-8" value="&lt;font color=&quot;#000000&quot;&gt;全局作用域&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="920" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="muk2QRLbzU_1VY-n0LTS-9" value="函数作用域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="muk2QRLbzU_1VY-n0LTS-9" value="&lt;font color=&quot;#000000&quot;&gt;函数作用域&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="900" y="270" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="muk2QRLbzU_1VY-n0LTS-10" value="块级作用域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="muk2QRLbzU_1VY-n0LTS-10" value="&lt;font color=&quot;#000000&quot;&gt;块级作用域&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="880" y="310" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
