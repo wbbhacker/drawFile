@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T05:11:16.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.1" etag="63c-hAtO7HHF4XQtTWAz" type="github"><diagram id="oteVQ-xgAca5fWNW9smG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-28T05:40:24.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9PqtiU56r8bq33zjblru" version="20.5.1" type="github">
+  <diagram id="oteVQ-xgAca5fWNW9smG" name="第 1 页">
+    <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="500" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-14" value="js 引擎 V8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="160" width="450" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="215" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="215" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-18" value="创建阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-19" value="执行阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HImPN8e0WdNeWfAEfwQE-21" target="HImPN8e0WdNeWfAEfwQE-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-21" value="声明阶段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="575" y="292.5" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HImPN8e0WdNeWfAEfwQE-23" target="HImPN8e0WdNeWfAEfwQE-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-23" value="初始化阶段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="805" y="260" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-24" value="赋值阶段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="805" y="326.25" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HImPN8e0WdNeWfAEfwQE-25" value="let 声明周期" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
