@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T06:26:10.830Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SMBKO7hiztrZQvO0zKW7" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T14:13:42.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Dcju66SfSxgEvA3WMAU3" version="20.5.1" type="github">
   <diagram id="O7jyK_cGJBeiItu3M3Zx" name="第 1 页">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="ECRpxW6QUPekAp9dYrVB-19" value=":is()&lt;font color=&quot;#000000&quot;&gt;，&lt;/font&gt;:not()&lt;font color=&quot;#000000&quot;&gt;，&lt;/font&gt;:has()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#FF0818;" parent="1" vertex="1">
           <mxGeometry x="730" y="445" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="exm0bVOSVGiGTwGDYVTc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ECRpxW6QUPekAp9dYrVB-20" target="exm0bVOSVGiGTwGDYVTc-4">
+        <mxCell id="exm0bVOSVGiGTwGDYVTc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="ECRpxW6QUPekAp9dYrVB-20" target="exm0bVOSVGiGTwGDYVTc-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ECRpxW6QUPekAp9dYrVB-20" value="选择&lt;font color=&quot;#ff0000&quot;&gt;选择器列&lt;/font&gt;里面权重值最大的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
@@ -52,14 +52,14 @@
         <mxCell id="ECRpxW6QUPekAp9dYrVB-22" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(3, 69, 117); font-family: sans-serif; text-align: left; background-color: rgb(252, 250, 238);&quot;&gt;:is(em, #foo)&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-family: sans-serif; text-align: left; background-color: rgb(252, 250, 238);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#000000&quot;&gt;（1,0,0）&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="715" y="505" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="exm0bVOSVGiGTwGDYVTc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ECRpxW6QUPekAp9dYrVB-23" target="exm0bVOSVGiGTwGDYVTc-4">
+        <mxCell id="exm0bVOSVGiGTwGDYVTc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="ECRpxW6QUPekAp9dYrVB-23" target="exm0bVOSVGiGTwGDYVTc-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ECRpxW6QUPekAp9dYrVB-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="690" y="580" width="280" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="ECRpxW6QUPekAp9dYrVB-24" value="A-B-C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="755" y="160" width="60" height="30" as="geometry" />
+        <mxCell id="ECRpxW6QUPekAp9dYrVB-24" value="A-B-C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="750" y="200" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ECRpxW6QUPekAp9dYrVB-25" value="&lt;font color=&quot;#666666&quot;&gt;选择器列 eg: a, .name, #foo{&amp;nbsp; }&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="460" y="650" width="210" height="30" as="geometry" />
@@ -75,9 +75,6 @@
         </mxCell>
         <mxCell id="ECRpxW6QUPekAp9dYrVB-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(3, 69, 117); font-family: sans-serif; text-align: left; background-color: rgb(252, 250, 238);&quot;&gt;:nth-child(even of li, .item)&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: sans-serif; text-align: left; background-color: rgb(252, 250, 238);&quot;&gt;(0,2,0)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="710" y="660" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ECRpxW6QUPekAp9dYrVB-30" value="一个类型选择器计为&lt;font color=&quot;#ff0818&quot;&gt;1&lt;/font&gt;，累加后放到对应位置即可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="620" y="190" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ECRpxW6QUPekAp9dYrVB-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(3, 69, 117); font-family: sans-serif; text-align: left; background-color: rgb(252, 250, 238);&quot;&gt;#bin&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: sans-serif; text-align: left; background-color: rgb(252, 250, 238);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#000000&quot;&gt;（1,0,0）&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="495" y="325" width="120" height="30" as="geometry" />
@@ -103,10 +100,10 @@
         <mxCell id="ECRpxW6QUPekAp9dYrVB-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(3, 69, 117); font-family: sans-serif; background-color: rgb(252, 250, 238);&quot;&gt;::before&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: sans-serif; background-color: rgb(252, 250, 238);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#000000&quot;&gt;（0,0,1）&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#FF0000;" parent="ECRpxW6QUPekAp9dYrVB-41" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="exm0bVOSVGiGTwGDYVTc-4" value="两类特殊选择器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="exm0bVOSVGiGTwGDYVTc-4" value="两类特殊选择器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="990" y="520" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="exm0bVOSVGiGTwGDYVTc-8" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="exm0bVOSVGiGTwGDYVTc-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="460" y="430" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ECRpxW6QUPekAp9dYrVB-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fontColor=#333333;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="exm0bVOSVGiGTwGDYVTc-8" vertex="1">
