@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T05:55:45.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.0.2" etag="X8gBfBCPklJu84vjPhJz" type="github"><diagram name="第 1 页" id="FD8gzh4Fw06256hOVhYC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-16T06:23:42.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="c3n07K02Wm7-7Uy6f1Cp" version="21.0.2" type="github">
+  <diagram name="第 1 页" id="FD8gzh4Fw06256hOVhYC">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0QhSy9UWkJGR73a_XTCn-2" target="0QhSy9UWkJGR73a_XTCn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0QhSy9UWkJGR73a_XTCn-2" target="0QhSy9UWkJGR73a_XTCn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-2" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;dataToAdvices()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0QhSy9UWkJGR73a_XTCn-3" target="0QhSy9UWkJGR73a_XTCn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-3" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;CHART_ID_OPTIONS.map&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-4" value="遍历各个CKB图表chart_key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="170" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0QhSy9UWkJGR73a_XTCn-6" target="0QhSy9UWkJGR73a_XTCn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-6" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;scoreRules()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="192.5" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-7" value="所有规则应用于当前chart_key图表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="160" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-8" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;计算每种规则得分，结果相乘Hard、Soft&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="145" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-10" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;computeScore()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-14" value="rule" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="50" width="270" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="0QhSy9UWkJGR73a_XTCn-14">
+          <mxGeometry y="26" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-17" value="+&amp;nbsp;validator&lt;span style=&quot;background-color: initial;&quot;&gt;()&amp;nbsp; 得分计算函数，返回得分&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0QhSy9UWkJGR73a_XTCn-14">
+          <mxGeometry y="34" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-18" value="+&amp;nbsp;trigger&lt;span style=&quot;background-color: initial;&quot;&gt;() 验证是否应用于规则，返回布尔值&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0QhSy9UWkJGR73a_XTCn-14">
+          <mxGeometry y="60" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-19" value="1.计算得分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="185" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-20" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;getChartTypeSpec&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="340" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QhSy9UWkJGR73a_XTCn-22" value="2.获取chart_key ,对应的spec 结构，即G2与CKB映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="310" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
